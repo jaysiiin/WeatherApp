@@ -1,0 +1,1 @@
+This was a homework we had to do that was instructed by Mel through a video on YouTube. It was a weather app that focused on jSON and a little bit of knockout.
